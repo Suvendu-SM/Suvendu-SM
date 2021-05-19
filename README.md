@@ -1,16 +1,6 @@
-<h1 align="center">Hi 👋, I'm Suvendu</h1>
-<h3 align="center">I love to code</h3>
-
-- 🔭 I’m currently working on **Git**
-
-- 🌱 I’m currently learning **Java,Javascript**
-
-- 👨‍💻 All of my projects are available at [Suvendu-SM](Suvendu-SM)
-
-- 📫 How to reach me **smohanty86861@gmail.com**
-
- [![Suvendu's github stats](https://github-readme-stats.vercel.app/api?username=Suvendu-SM)](https://github.com/anuraghazra/github-readme-stats)
-
+<h1 align="center">Hello 👋, I'm Suvendu</h1>
+<h3 align="center"></h3>
+<p>I am an undergraduate student pursuing  B.Tech degree in Software Engineering. I love exploring new possibilities and techniques. Actively participating in competitive programming.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suvendu-sm" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
